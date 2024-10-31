@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'koodak';
+	src: url('BKoodakBold.eot');
+	src: local('BKoodakBold'), url('BKoodakBold.woff') format('woff'), url('BKoodakBold.ttf') format('truetype'), url('BKoodakBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+

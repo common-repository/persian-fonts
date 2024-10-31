@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'titr';
+    src: url('WebTitrTGE.eot');
+    src: url('WebTitrTGE.eot?#iefix') format('embedded-opentype'),
+         url('WebTitrTGE.woff') format('woff'), 
+         url('WebTitrTGE.ttf') format('truetype'),
+         url('WebTitrTGE.svg#WebTitrTGEBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    unicode-range: U+0600–06FF;
+}
